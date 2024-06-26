@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdff51bc-ef24-4576-aa77-4ccb28cf928e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RunningSumof1dArray1480/RunningSumof1dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RichestCustomerWealth/RichestCustomerWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
     "Application.BuildArrayFromPermutation.executor": "Run",
     "Application.ConcatenationofArray.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RichestCustomerWealth.executor": "Run",
     "Application.RunningSumof1dArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -53,5 +55,21 @@
       <updated>1719396603384</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RichestCustomerWealth/RichestCustomerWealth.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RichestCustomerWealth/RichestCustomerWealth.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
